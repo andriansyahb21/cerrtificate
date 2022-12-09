@@ -1,1 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2022-12-09T09:36:26.203Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="lG5CQ8cOjp-1zA-0XaOT" version="20.6.0" type="github"><diagram id="jdz8rclNsTlGCT2IdnQB" name="Page-1">7Vhdc6IwFP01zLQP7gQQWh9rZWtntztO3dm2jylEyUwgNgTF/vpNTCIfamu7WnnYFyHn3lxu7j2cRCz3OiluGJzFdzRCxHJAVFjuwHIc2770xEUiS4X4PVcBU4Yj7VQCY/yKNAg0muMIZTVHTinheFYHQ5qmKOQ1DDJGF3W3CSX1p87gFG0A4xCSTfQBRzxW6KUHSnyI8DQ2T7aBtiTQOGsgi2FEFxXIDSz3mlHK1V1SXCMii2fqouZ932FdJ8ZQyveZMMhI5wr++fHSwcPgxQfB6yPoXKooc0hyvWDL8YmI159QEVYUDIbK4L/kMtP+b5yIfjjgF1qI33uawLQ0irupvq6CYAOMEJtQJnxFNAcExUz0SgyWxlGkjcvJ4GwUnFdMKhdjXRWTL02HGM3TCMlF2sK8iDFH45nKeiE4KbCYJ0SbN4um6zhHjKOiAuki3iCaIM5EokBb1w3VjHYMFxYlP2zjE1e44WsMakpO16HLrokb3bgPNLG3s4m4VirTJVnOzgQmmIglXFkyVx8mslJv9rjmoprcaHsfxXCOKYMy5duUiyJjmm7vscKymQz9lTmundLnTF7O+rdVqqmEWkI1z65Tzb04NdVMQjWuNaqE0uhKKq8YhQRmGQ7rhSmrCMQIFZg/aou8f5L4N0+PBkXFbbA0g1Ss5bE6qMySw3LaamTm7WxJRnOmde5NneSQTRF//1VEUW1X2WxwpYHelv4ZjCECOZ7X96JtTdVPGFG8Um3Nny6o86frNXih1q1nVfeOZiCvEQg0AqnCbARacWy97P1od/cQ94L7QTp6ykM/Zz/JM+yYN+fkChdMxDbG99jCWiNvQXBMedvQsi2v1947qet+pbxt45nTBnXbKiHvy9bO96Yt6uO5n1Sf5jb41erjtkV9xjTE+mw1EbmsDtOtFp/xUc9WBxWfrn1q8em2QXz+7Wh1ENFyP3LWaou4+fZnxa15RmsGOrK4eTvF7bBfAIbwGctwZ8Pzt0TrCP/2DysTvVPLhP9fJqrEbblMNI4u/kXrZEIMy4+Qyr38lOsGfwE=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-09T09:38:25.710Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36 Edg/108.0.1462.42" etag="EtCO9q-P0lBxZxSMc_YP" version="20.6.0" type="github">
+  <diagram id="jdz8rclNsTlGCT2IdnQB" name="Page-1">
+    <mxGraphModel dx="1422" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dsl-AaVKq-iHEq60EzX0-8" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Performance Expectancy&lt;/i&gt; (PE)&lt;br&gt;(X1)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dsl-AaVKq-iHEq60EzX0-9" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Behavioral Intention&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;(BI)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="510" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dsl-AaVKq-iHEq60EzX0-10" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Dsl-AaVKq-iHEq60EzX0-8" target="Dsl-AaVKq-iHEq60EzX0-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="450" as="sourcePoint" />
+            <mxPoint x="450" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMWh9ERDnPYuc6urLlba-1" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Effort Expectancy&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;(EE)&lt;br&gt;(X2)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMWh9ERDnPYuc6urLlba-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="DMWh9ERDnPYuc6urLlba-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="530" as="sourcePoint" />
+            <mxPoint x="510" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMWh9ERDnPYuc6urLlba-3" value="&lt;i style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;Social Influence&lt;/i&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;&amp;nbsp;(SI)&lt;br&gt;(X3)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMWh9ERDnPYuc6urLlba-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DMWh9ERDnPYuc6urLlba-3" target="Dsl-AaVKq-iHEq60EzX0-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="610" as="sourcePoint" />
+            <mxPoint x="500" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DMWh9ERDnPYuc6urLlba-5" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;i&gt;Habit &lt;/i&gt;(H)&lt;br&gt;(X4)&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DMWh9ERDnPYuc6urLlba-6" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DMWh9ERDnPYuc6urLlba-5" target="Dsl-AaVKq-iHEq60EzX0-9" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="670" as="sourcePoint" />
+            <mxPoint x="500" y="410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
